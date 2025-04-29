@@ -11,3 +11,5 @@ To use the R scripts, open the `scripts.Rproj` project file in [RStudio Desktop]
 - `data_analysis.R`: Creates all the remaining plots used in the analysis of the measured data, as presented in the associated publication.
 
 All generated figures are saved in the `figures` directory, which must exist before running the scripts.
+
+A copy of this repository can be found on Zenodo at the URL: https://doi.org/10.5281/zenodo.15296988.
