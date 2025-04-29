@@ -1,0 +1,17 @@
+#------------------------------------------------#
+# .gitignore file for the                        #
+#  Heavy Metals in the Sinu River                #
+#  repository hosted on GitHub.                  #
+#------------------------------------------------#
+# Author: Sabino Maggi                           #
+# Created:       29-04-2025                      #
+# Last revision: 29-04-2025                      #
+#------------------------------------------------#
+
+#--- ignore Mac OS X junk
+.DS_Store
+
+#--- ignore backup files
+*~
+*.bak
+#--- end of .gitignore file
