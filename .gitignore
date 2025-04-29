@@ -14,4 +14,8 @@
 #--- ignore backup files
 *~
 *.bak
+
+#--- ignore zip files for Zenodo
+*.zip
+
 #--- end of .gitignore file
