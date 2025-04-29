@@ -1,5 +1,7 @@
 # Heavy metals in the floodplains of the Sinu River, Colombia
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15296988.svg)](https://doi.org/10.5281/zenodo.15296988)
+
 This dataset contains raw measurements of heavy metal concentrations, physico-chemical parameters, and soil grain size from soil samples collected around the Sinú River in Colombia. The accompanying R scripts reproduce all figures and tables presented in the associated publication.
 
 A description of each data file and of the measurement units used can be found in the `metadata.yml` file.
@@ -12,4 +14,4 @@ To use the R scripts, open the `scripts.Rproj` project file in [RStudio Desktop]
 
 All generated figures are saved in the `figures` directory, which must exist before running the scripts.
 
-A copy of this repository can be found on Zenodo at the URL: https://doi.org/10.5281/zenodo.15296988.
+A copy of this repository is archived on Zenodo and can be accessed via the following DOI: [https://doi.org/10.5281/zenodo.15296988](https://doi.org/10.5281/zenodo.15296988).
