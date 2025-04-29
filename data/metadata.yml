@@ -1,5 +1,9 @@
-Acronyms:
-    SL: sample location
+Data_files:
+    metadata.yml:               this file
+    sampling-locations.csv:     coordinates of the sampled sites
+    concentration-limits.csv:   reference concentrations, after Wyse doi 10.1039/B308584H
+    grain-size.csv:             measured grain sizes of the sediments
+    all-measurements.csv:       all measured data consolidated in a single file
 
 Units:
     Zn: mg/kg
@@ -16,9 +20,5 @@ Units:
     Silt: 1/256-1/16 mm
     Fine/very fine sand: 1/16-1/4 mm
 
-Data_files:
-    metadata.yml:                   this file
-    sampling-locations.csv:         coordinates of the sampled sites
-    concentration-limits.csv:       reference concentrations, after Wyse doi 10.1039/B308584H
-    grain-size.csv:                 measured grain sizes of the sediments
-    all-measurements.csv:           all measured data consolidated in a single file
+Acronyms:
+    SL: sample location
